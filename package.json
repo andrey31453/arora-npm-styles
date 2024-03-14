@@ -1,6 +1,6 @@
 {
 	"name": "arora-npm-styles",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "wow",
 	"main": "src/index.scss",
 	"repository": "https://github.com/andrey31453/arora-npm-styles.git",
