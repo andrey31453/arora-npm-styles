@@ -1,3 +1,7 @@
-{"name": "arora-npm-styles",
-	"npm": true
+{
+  "name": "arora-npm-styles",
+  "npm": true,
+  "version": "0.0.3",
+  "main": "src/index.scss",
+  "repository": "https://github.com/andrey31453/arora-npm-styles.git"
 }

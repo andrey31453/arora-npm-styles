@@ -1,12 +1,15 @@
 {
-	"name": "arora-npm-styles",
-	"version": "0.0.2",
-	"description": "wow",
-	"main": "src/index.scss",
-	"repository": "https://github.com/andrey31453/arora-npm-styles.git",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"author": "andrey31453@gmail.com",
-	"license": "ISC"
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  },
+  "name": "arora-npm-styles",
+  "version": "0.0.4",
+  "main": "src/index.scss",
+  "repository": "https://github.com/andrey31453/arora-npm-styles.git",
+  "description": "awesome repository",
+  "author": "andrey31453@gmail.com",
+  "license": "MIT",
+  "browserslist": [
+    "defaults and fully supports es6"
+  ]
 }
